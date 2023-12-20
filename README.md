@@ -19,5 +19,7 @@ Bu uygulama, kamera üzerinden video akışını izleyerek içeri ve dışarı g
 
 5. **Sonuçları İzleme:**
    - İçeri ve dışarı giren kişi sayısını ekran üzerinde izleyebilirsiniz.
+   - ![image](https://github.com/123162/peopleCounter/assets/55270779/8dc0f2de-3ea9-4157-89ea-e489cf413984)
+
 
 
